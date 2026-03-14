@@ -37,25 +37,25 @@ The program generates four visualizations to analyze supermarket data.
 
 Bar chart showing the number of products with *Full, Low, and Empty stock status*.
 
-![Stock Status Analysis](figure1_stock_status.png)
+![Stock Status Analysis](figure1.png)
 
 ## Figure 2 – Purchased vs Not Purchased
 
 Pie chart showing the percentage of *purchased and not purchased products*.
 
-![Purchased vs Not Purchased](figure2_purchase_status.png)
+![Purchased vs Not Purchased](figure2.png)
 
 ## Figure 3 – Product Quantity Analysis
 
 Bar chart showing the *quantity available for each product*.
 
-![Product Quantity](figure3_quantity_analysis.png)
+![Product Quantity](figure3.png)
 
 ## Figure 4 – Price Distribution
 
 Histogram showing the *distribution of product prices* in the dataset.
 
-![Price Distribution](figure4_price_distribution.png)
+![Price Distribution](figure4.png)
 
 # Project Files
 
